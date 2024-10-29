@@ -1,0 +1,12 @@
+all_gen6_bom2ipsc: 1.4.1-1
+all_gen6_elf_kafka: 0.0.8-1
+all_gen6_elf_production_core: 0.2.10-1
+all_gen6_elf_production_core_ums: 0.0.55-3
+all_gen6_elf_transportation_core: 0.0.50-6
+all_gen6_elf_transportation_core_ums: 0.0.20-9
+all_ums_action_service: 4.9.0-1
+all_ums_auth_service: 4.9.0-1
+all_ums_frontend: 4.8.0-1
+all_ums_mdp_utv_service: 4.4.0-2
+all_ums_menu_config_service: 4.9.0-1
+ipsc-gen6-em-standard-messages: 1.2.2-1
